@@ -1,0 +1,83 @@
+{
+  "git.ignoreMissingGitWarning": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.feedback.visible": false,
+  "workbench.statusBar.visible": true,
+  "files.defaultLanguage": "html",
+  "workbench.editor.tabSizing": "shrink",
+  "editor.detectIndentation": false,
+  "editor.glyphMargin": false,
+  "editor.smoothScrolling": true,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.suggestOnTriggerCharacters": false,
+  "terminal.integrated.fontSize": 15,
+  "editor.wordWrap": "on",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.minimap.enabled": true,
+  "editor.fontSize": 20,
+  "editor.tabSize": 2,
+  "window.menuBarVisibility": "toggle",
+  "terminal.integrated.rendererType": "dom",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "workbench.colorCustomizations": {
+    "activityBarBadge.background": "#00BCD4",
+    "list.activeSelectionForeground": "#00BCD4",
+    "list.inactiveSelectionForeground": "#00BCD4",
+    "list.highlightForeground": "#00BCD4",
+    "scrollbarSlider.activeBackground": "#00BCD450",
+    "editorSuggestWidget.highlightForeground": "#00BCD4",
+    "textLink.foreground": "#00BCD4",
+    "progressBar.background": "#00BCD4",
+    "pickerGroup.foreground": "#00BCD4",
+    "tab.activeBorder": "#00BCD4",
+    "notificationLink.foreground": "#00BCD4",
+    "editorWidget.resizeBorder": "#00BCD4",
+    "editorWidget.border": "#00BCD4",
+    "settings.modifiedItemIndicator": "#00BCD4",
+    "settings.headerForeground": "#00BCD4",
+    "panelTitle.activeBorder": "#00BCD4",
+    "breadcrumb.activeSelectionForeground": "#00BCD4",
+    "menu.selectionForeground": "#00BCD4",
+    "menubar.selectionForeground": "#00BCD4",
+    "editor.findMatchBorder": "#00BCD4",
+    "selection.background": "#00BCD440"
+  },
+  "materialTheme.accent": "Cyan",
+  "editor.formatOnPaste": true,
+  "ecsstractor_port.comment_style": "//",
+  "editor.snippetSuggestions": "bottom",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/css"
+    }
+  ],
+  "workbench.preferredDarkColorTheme": "Material Theme",
+  "files.autoSave": "onFocusChange",
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "[css]": {
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  },
+  "stylelint.snippet": ["css", "less", "postcss", "scss"],
+  "stylelint.validate": ["css", "less", "postcss", "scss"],
+  "[scss]": {
+    "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+  },
+  "explorer.confirmDelete": false,
+  "bracketPairColorizer.depreciation-notice": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 120,
+  "git.confirmSync": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "window.zoomLevel": 1,
+  "editor.fontLigatures": false
+}
