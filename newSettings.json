@@ -1,0 +1,45 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "window.zoomLevel": 1,
+     "editor.codeActionsOnSave": {
+          "source.fixAll.eslint": true
+      },
+      "eslint.format.enable": true,
+      "editor.formatOnSave": true,
+      "files.autoSave": "onFocusChange",
+      "eslint.alwaysShowStatus": true,
+      "[javascript]": {
+          "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+      },
+      "[javascriptreact]": {
+          "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+      },
+      "[typescript]": {
+          "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+      },
+      "[typescriptreact]": {
+          "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+      },
+      "[json]": {
+          "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+      },
+      "[yaml]": {
+          "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+      },
+      "editor.fontLigatures": false,
+      "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+      "[html]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "[css]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+      },
+      "emmet.includeLanguages": {
+          "javascript": "javascriptreact"
+      },
+      "explorer.confirmDelete": false,
+      "git.confirmSync": false,
+      "files.eol": "\n",
+      "liveServer.settings.fullReload": true
+  }
+  
